@@ -14,7 +14,7 @@ Sometimes being pretty is important. I enjoy trying to present something to the 
 
 ### 📈 Data
 
-Knowing your stuff is key. Processing data makes it easier to analyze it and, mor importantly, understand what the next step is.
+Knowing your stuff is key. Processing data makes it easier to analyze it and, more importantly, understand what the next step is.
 
 
 ## What I know
