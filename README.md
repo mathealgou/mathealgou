@@ -1,43 +1,43 @@
 # Matheus Goulart
 
-## Web and automation developer
+**Web & automation developer** building practical tools for data, developer workflows, and the web.
 
-## 🖥 What I do
+I enjoy turning repetitive processes and raw information into software that is clear, useful, and easy to run.
 
-### 🏭 Automation
+## What I do
 
-I like to automate processes that would either take too long or be too complex to be done completely by hand.
+- ⚙️ **Automation** — reduce manual, repetitive, or error-prone work with small, dependable tools.
+- 📊 **Data** — transform data into information that is easier to explore, understand, and act on.
+- 🖥️ **Web development** — build interfaces and APIs with usability and maintainability in mind.
 
-### 🖼 Front-end
+## Selected work
 
-Sometimes being pretty is important. I enjoy trying to present something to the best of my abilities.
+| Project | Description | Built with |
+| --- | --- | --- |
+| [reporeport](https://github.com/mathealgou/reporeport) | An AI-free command-line tool that analyzes a repository, counts files and lines by type, infers the project type, and produces a concise report. | Go |
+| [abandoned-cart-prediction-poc](https://github.com/mathealgou/abandoned-cart-prediction-poc) | A proof of concept for an API that predicts cart abandonment from real-time customer behavior. | Go |
+| [minikeep](https://github.com/mathealgou/minikeep) | A compact note-taking application with a responsive UI, JSON API, storage, and logging—all in a single Python file. | Python |
+| [text-analysis-lib](https://github.com/mathealgou/text-analysis-lib) | A reusable library of functions for text analysis and classification. | Go |
+| [Cyos-Engine](https://github.com/mathealgou/Cyos-Engine) | A state-driven engine for building choose-your-own-story games. | JavaScript, Vue, Electron |
 
-### 📈 Data
+## Technology
 
-Knowing your stuff is key. Processing data makes it easier to analyze it and, more importantly, understand what the next step is.
+**Languages**  
+Python · Go · JavaScript · TypeScript · SQL · Shell
 
+**Web**  
+React · Next.js · Node.js · Express · Flask · HTML · CSS · Sass
 
-## What I know
+**Data & tooling**  
+Pandas · Git · GitHub · Linux
 
-### 🐍 Python
+## Also exploring
 
-The more I use it, the more I love it as a tool to solve problems. In the short spam of time I've known it, I already used for everything from processing raw data into actually usable, to automating video content creation, to making full blown web applications.
+- Developer tools and command-line utilities
+- Small, dependency-light applications
+- Data analysis and machine-learning experiments
+- APIs, automation, and practical self-hosted services
 
-### ☕ Javascript / Typescript
+---
 
-I consider user interface as a very important factor in the overall quality of software, and no other technology comes close to this ones, along with html (And other templating standarts such as JSX and Vue) and css (And it's pre-processors) when it comes to making the final user's experience that much better.
-
-<!--
-**mathealgou/mathealgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Browse my repositories to see the things I have been building.
